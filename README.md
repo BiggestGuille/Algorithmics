@@ -1,5 +1,5 @@
 # Algorithmics
-In this repository you will find my personal algorithms developed in Algorithms Design &amp; Analysis.
+In this repository you will find my personal algorithms developed in Algorithms Design &amp; Analysis, imparted in 2023 during my Software Engineering studies in Universidad Rey Juan Carlos, Madrid.
 
 ### Graphs Algorithms 🌎:
 Simple graphs algorithms such as Breadth-First-Search or Depth-First-Search are used in some examples.
